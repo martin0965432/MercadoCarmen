@@ -1,0 +1,54 @@
+═══════════════════════════════════════════════════════════════════
+    DATOS PARA COPIAR Y PEGAR EN FIREBASE CONSOLE
+═══════════════════════════════════════════════════════════════════
+
+📌 NOMBRE DEL PROYECTO:
+MercadoCarmen
+
+📌 NOMBRE DEL PAQUETE ANDROID (¡MUY IMPORTANTE!):
+com.example.mercadocarmen
+
+📌 ALIAS DE LA APP (opcional):
+MercadoCarmen
+
+📌 UBICACIÓN RECOMENDADA PARA FIRESTORE Y STORAGE:
+us-central (Iowa)
+
+   o alternativa:
+
+southamerica-east1 (São Paulo)
+
+═══════════════════════════════════════════════════════════════════
+
+📁 UBICACIÓN DONDE COLOCAR google-services.json:
+C:\Users\lenovo\AndroidStudioProjects\MercadoCarmen\app\google-services.json
+
+⚠️ IMPORTANTE: El archivo debe estar en la carpeta "app", NO en "src"
+
+═══════════════════════════════════════════════════════════════════
+
+🔗 ENLACES DIRECTOS:
+
+Firebase Console:
+https://console.firebase.google.com/
+
+Documentación Firestore:
+https://firebase.google.com/docs/firestore
+
+Documentación Storage:
+https://firebase.google.com/docs/storage
+
+═══════════════════════════════════════════════════════════════════
+
+✅ ORDEN DE CONFIGURACIÓN:
+
+1. Crear proyecto Firebase
+2. Registrar app Android
+3. Descargar google-services.json → copiar a app/
+4. Habilitar Firestore Database (modo prueba)
+5. Habilitar Storage (modo prueba, misma ubicación que Firestore)
+6. Sync Gradle en Android Studio
+7. Compilar proyecto
+8. Ejecutar app y probar
+
+═══════════════════════════════════════════════════════════════════

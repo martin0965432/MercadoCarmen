@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677106952647",
+    "project_id": "mercadocarmen-b4dd3",
+    "storage_bucket": "mercadocarmen-b4dd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677106952647:android:be089d47749cd9075491e2",
+        "android_client_info": {
+          "package_name": "com.example.mercadocarmen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNqwfcU83ttcxCcsMVtm_RP0sU3xuEUJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

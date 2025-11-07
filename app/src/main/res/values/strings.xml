@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MercadoCarmen</string>
+    <!-- Añade estas dos líneas para el Navigation Drawer -->
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+
+    <!-- Article Management -->
+    <string name="articles_title">Mis Publicaciones</string>
+    <string name="add_article">Agregar Artículo</string>
+    <string name="edit_article">Editar Artículo</string>
+    <string name="delete_article">Eliminar Artículo</string>
+    <string name="no_articles">No hay artículos publicados</string>
+    <string name="no_articles_message">Toca el botón + para agregar tu primer artículo</string>
+
+    <!-- Article Form -->
+    <string name="title_label">Título</string>
+    <string name="title_hint">Nombre del artículo</string>
+    <string name="description_label">Descripción</string>
+    <string name="description_hint">Describe tu artículo</string>
+    <string name="price_label">Precio</string>
+    <string name="price_hint">0.00</string>
+    <string name="image_url_label">URL de imagen (opcional)</string>
+    <string name="image_url_hint">https://ejemplo.com/imagen.jpg</string>
+    <string name="save_button">Guardar</string>
+    <string name="cancel_button">Cancelar</string>
+
+    <!-- Validation Messages -->
+    <string name="error_title_required">El título es obligatorio</string>
+    <string name="error_description_required">La descripción es obligatoria</string>
+    <string name="error_price_required">El precio es obligatorio</string>
+    <string name="error_price_invalid">Ingresa un precio válido</string>
+
+    <!-- Success Messages -->
+    <string name="article_saved">Artículo guardado correctamente</string>
+    <string name="article_updated">Artículo actualizado correctamente</string>
+    <string name="article_deleted">Artículo eliminado</string>
+
+    <!-- Dialogs -->
+    <string name="delete_confirmation_title">¿Eliminar artículo?</string>
+    <string name="delete_confirmation_message">Esta acción no se puede deshacer</string>
+    <string name="delete_confirm">Eliminar</string>
+    <string name="delete_cancel">Cancelar</string>
+
+    <!-- Currency -->
+    <string name="currency_symbol">$</string>
+
+    <!-- Image Picker -->
+    <string name="select_image">Seleccionar Imagen</string>
+    <string name="image_selected">Imagen seleccionada</string>
+    <string name="uploading_image">Subiendo imagen…</string>
+    <string name="upload_failed">Error al subir la imagen</string>
+    <string name="loading">Cargando…</string>
+</resources>
